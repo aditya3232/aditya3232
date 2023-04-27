@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Crowdfunding website**
 
-- 🌱 I’m currently learning **Golang, Laravel, NuxtJS, ElasticSearch, Redis, Docker**
+- 🌱 I’m currently learning **Golang, Laravel, NuxtJS, ElasticSearch, Redis, DockerDesktop**
 
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
