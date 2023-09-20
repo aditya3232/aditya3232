@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aditya</h1>
-<h3 align="center">A passionate Web developer, Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya3232" alt="aditya3232" /></a> </p>
 
