@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya3232" alt="aditya3232" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Laravel, ElasticSearch, Redis, DockerDesktop**
+- 🌱 I’m currently learning **Golang, Laravel, ElasticSearch, Redis, MinIO, DockerDesktop**
 
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
