@@ -5,6 +5,12 @@
 - 🌱 I'm currently learning to build scalable and high-performance systems to better meet the demand
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
+## 📊 Coding Activity (Last 30 Days)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aditya32&layout=compact&langs_count=8&range=last_30_days)
+
+## 🧠 Languages Used (Last 30 Days)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=aditya32&range=last_30_days&layout=compact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad aditya" height="30" width="40" /></a>
