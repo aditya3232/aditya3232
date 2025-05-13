@@ -3,8 +3,6 @@
 
 - 🔭  I’m currently working onsite at Bank Rakyat Indonsia (BRI). Focusing on enhancing existing features in the ***Suplesi Pinjaman Kupedes*** application.
 - 🌱 I'm currently learning to build scalable and high-performance systems to better meet the demand
--  
-
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
