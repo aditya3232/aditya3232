@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya3232&label=Profile%20views&color=0e75b6&style=flat" alt="aditya3232" /> </p>
 
-- 🔭  I’m currently working onsite at Bank Rakyat Indonsia (BRI). Focusing on enhancing existing features in the ***Suplesi Pinjaman Kupedes*** application.
+- 🔭  I’m currently seeking new job opportunities.
 - 🌱 I'm currently learning to build scalable and high-performance systems to better meet the demand.
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
