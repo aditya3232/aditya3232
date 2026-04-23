@@ -3,9 +3,6 @@
 
 - 📫 How to reach me **m.aditya3232@gmail.com**
 
-## 📊 Coding Activity (Last 30 Days)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aditya32&layout=compact&langs_count=8&range=last_30_days)
-
 ## 🧠 Languages Used (Last 30 Days)
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=aditya32&range=last_30_days&layout=compact)
 
